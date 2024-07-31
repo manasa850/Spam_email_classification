@@ -1,4 +1,5 @@
 Spam Email Classification
+
 Description
 This repository contains a project aimed at detecting whether an email is spam or ham based on its content using machine learning and natural language processing techniques.
 
@@ -40,5 +41,3 @@ Train and evaluate the model.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
