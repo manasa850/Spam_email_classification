@@ -4,22 +4,18 @@
 Description
 This repository contains a project aimed at detecting whether an email is spam or ham based on its content using machine learning and natural language processing techniques.
 
-Steps Involved
+**Steps Involved**
 
 Load Data
-
 Import the dataset containing emails.
 
 Exploratory Data Analysis (EDA)
-
 Perform data visualization and summarization to understand the dataset.
 
 Data Preparation
-
 Clean and preprocess the data, including tokenization, removing stop words, and vectorization.
 
 Model Building
-
 Train machine learning models to classify emails as spam or ham.
 
 Technologies Used
